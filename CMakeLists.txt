@@ -11,4 +11,4 @@ add_compile_options(
 )
 
 # Include sub-projects.
-add_subdirectory ("nlohmann_benchmark")
+add_subdirectory ("benchmark")
